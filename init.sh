@@ -12,4 +12,5 @@ bash alacritty/install.sh
 bash volta.sh
 bash pip-installs.sh
 bash install-github-cli.sh
+bash gnome-settings.sh
 
