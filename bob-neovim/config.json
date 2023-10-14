@@ -1,0 +1,5 @@
+{
+    "downloads_location": "$HOME/.local/share/bob",
+    "installation_location": "$HOME/.local/share/bob/nvim-bin",
+    "version_sync_file_location": "$HOME/.config/nvim/nvim.version"
+}
